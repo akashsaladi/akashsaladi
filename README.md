@@ -3,7 +3,7 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=header"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=HARSHA+SIVA+AKASH+SALADI;HIRISHI" alt="Name" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=HARSHA+SIVA+AKASH+SALADI;AKASH+SALADI" alt="Name" /></a>
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="2">
 
@@ -218,9 +218,9 @@ Python • Tkinter • ReportLab
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashsaladi/hirishie/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashsaladi/hirishie/output/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/akashsaladi/hirishie/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashsaladi/akashsaladi/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashsaladi/akashsaladi/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/akashsaladi/akashsaladi/output/github-snake-dark.svg">
 </picture>
 
 </div>
