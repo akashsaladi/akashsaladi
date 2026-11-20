@@ -198,7 +198,7 @@ Desktop application for generating itemized invoices with GST calculations
 Python • Tkinter • ReportLab
 ```
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hirishi24)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashsaladi)
 
 </td>
 </tr>
@@ -210,17 +210,17 @@ Python • Tkinter • ReportLab
 
 <div align="center">
 
-<a href="https://github.com/Hirishi24">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hirishi24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="170"/>
+<a href="https://github.com/akashsaladi">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akashsaladi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="170"/>
 </a>
 
 <br/><br/>
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hirishi24/hirishi24/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hirishi24/hirishi24/output/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Hirishi24/hirishi24/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashsaladi/hirishie/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashsaladi/hirishie/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/akashsaladi/hirishie/output/github-snake-dark.svg">
 </picture>
 
 </div>
