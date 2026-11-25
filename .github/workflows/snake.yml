@@ -15,13 +15,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
         with:
-          github_user_name: akashsaladi
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          node-version: 20
+
+      - name: Generate snake and stats card
+        run: node .github/scripts/generate-profile-assets.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: akashsaladi
+          OUT_DIR: dist
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

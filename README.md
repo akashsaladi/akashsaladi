@@ -211,7 +211,7 @@ Python • Tkinter • ReportLab
 <div align="center">
 
 <a href="https://github.com/akashsaladi">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akashsaladi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="170"/>
+  <img src="https://raw.githubusercontent.com/akashsaladi/akashsaladi/output/github-stats.svg" height="170"/>
 </a>
 
 <br/><br/>
